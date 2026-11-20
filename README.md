@@ -43,9 +43,9 @@ By default, `reproduce` writes the CSVs under `outputs/`.
 
 | Domain | Five-level ontology | SMI embeddings for complete codes |
 | --- | --- | --- |
-| Diagnosis | `diagnosis_hierarchy.csv` | `diagnosis_SMI_embeddings.csv` |
-| Procedure | `procedure_hierarchy.csv` | `procedure_SMI_embeddings.csv` |
-| Medication | `medication_hierarchy.csv` | `medication_SMI_embeddings.csv` |
+| Diagnosis | [diagnosis_hierarchy.csv](outputs/diagnosis_hierarchy.csv) | `diagnosis_SMI_embeddings.csv` |
+| Procedure | [procedure_hierarchy.csv](outputs/procedure_hierarchy.csv) | `procedure_SMI_embeddings.csv` |
+| Medication | [medication_hierarchy.csv](outputs/medication_hierarchy.csv) | `medication_SMI_embeddings.csv` |
 
 The hierarchy CSVs record the codes and labels along each ontology path. The embedding CSVs contain `Code`, a dot-separated `SemanticID`, and columns `0` through `767`. The L1–L4 tables contain sums along the path up to their respective levels. They are stored in `outputs/smi_embeddings_by_level/` with names such as `diagnosis_SMI_embeddings_L1.csv`.
 

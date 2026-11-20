@@ -1,4 +1,7 @@
-/outputs/
+/outputs/*
+!/outputs/diagnosis_hierarchy.csv
+!/outputs/procedure_hierarchy.csv
+!/outputs/medication_hierarchy.csv
 /full_procedure/
 /.venv/
 __pycache__/
