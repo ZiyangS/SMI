@@ -1,0 +1,1103 @@
+Version,L4_Code,L4_Label
+9,038,Injection of destructive agent into spinal canal
+9,016,Excision of lesion of skull
+9,031,Division of intraspinal nerve root
+9,034,Excision or destruction of lesion of spinal cord or spinal meninges
+9,036,Lysis of adhesions of spinal cord and nerve roots
+9,042,Destruction of cranial and peripheral nerves
+9,043,Suture of cranial and peripheral nerves
+9,045,Cranial or peripheral nerve graft
+9,046,Transposition of cranial and peripheral nerves
+9,050,Division of sympathetic nerve or ganglion
+9,059,Other operations on nervous system
+9,062,Unilateral thyroid lobectomy
+9,064,Complete thyroidectomy
+9,066,Excision of lingual thyroid
+9,067,Excision of thyroglossal duct or tract
+9,073,Bilateral adrenalectomy
+9,132,Extracapsular extraction of lens by linear extraction technique
+9,133,Extracapsular extraction of lens by simple aspiration (and irrigation) technique
+9,138,Removal of implanted lens
+9,090,Incision of lacrimal gland
+9,093,Other operations on lacrimal gland
+9,096,Excision of lacrimal sac and passage
+9,100,Removal of embedded foreign body from conjunctiva by incision
+9,101,Other incision of conjunctiva
+9,105,Lysis of adhesions of conjunctiva and eyelid
+9,106,Repair of laceration of conjunctiva
+9,110,Magnetic removal of embedded foreign body from cornea
+9,111,Incision of cornea
+9,146,Removal of surgically implanted material from posterior segment of eye
+9,149,"Other operations on retina, choroid, and posterior chamber"
+9,153,"Operations on two or more extraocular muscles involving temporary detachment from globe, one or both eyes"
+9,154,"Other operations on two or more extraocular muscles, one or both eyes"
+9,155,Transposition of extraocular muscles
+9,156,Revision of extraocular muscle surgery
+9,157,Repair of injury of extraocular muscle
+9,159,Other operations on extraocular muscles and tendons
+9,161,"Removal of penetrating foreign body from eye, not otherwise specified"
+9,194,Myringoplasty
+9,196,Revision of tympanoplasty
+9,184,Suture of laceration of external ear
+9,185,Surgical correction of prominent ear
+9,186,Reconstruction of external auditory canal
+9,189,Other operations on external ear
+9,190,Stapes mobilization
+9,193,Other operations on ossicular chain
+9,199,Other repair of middle ear
+9,201,Removal of tympanostomy tube
+9,208,Operations on eustachian tube
+9,215,Submucous resection of nasal septum
+9,232,Restoration of tooth by filling
+9,233,Restoration of tooth by inlay
+9,235,Implantation of tooth
+9,236,Prosthetic dental implant
+9,244,Excision of dental lesion of jaw
+9,245,Alveoloplasty
+9,246,Exposure of tooth
+9,247,Application of orthodontic appliance
+9,248,Other orthodontic operation
+9,282,Tonsillectomy without adenoidectomy
+9,283,Tonsillectomy with adenoidectomy
+9,286,Adenoidectomy without tonsillectomy
+9,287,Control of hemorrhage after tonsillectomy and adenoidectomy
+9,211,Incision of nose
+9,222,Intranasal antrotomy
+9,240,Incision of gum or alveolar bone
+9,260,Incision of salivary gland or duct
+9,214,Resection of nose
+9,229,Other operations on nasal sinuses
+9,242,Gingivoplasty
+9,251,Excision or destruction of lesion or tissue of tongue
+9,252,Partial glossectomy
+9,253,Complete glossectomy
+9,254,Radical glossectomy
+9,270,Drainage of face and floor of mouth
+9,271,Incision of palate
+9,280,Incision and drainage of tonsil and peritonsillar structures
+9,284,Excision of tonsil tag
+9,285,Excision of lingual tonsil
+9,290,Pharyngotomy
+9,292,Excision of branchial cleft cyst or vestige
+9,294,Plastic operation on pharynx
+9,311,Temporary tracheostomy
+9,310,Injection of larynx
+9,301,Hemilaryngectomy
+9,303,Complete laryngectomy
+9,304,Radical laryngectomy
+9,313,Other incision of larynx or trachea
+9,315,Local excision or destruction of lesion or tissue of trachea
+9,321,Other excision of bronchus
+9,326,Radical dissection of thoracic structures
+9,329,Other excision of lung
+9,330,Incision of bronchus
+9,331,Incision of lung
+9,341,Incision of mediastinum
+9,343,Excision or destruction of lesion or tissue of mediastinum
+9,344,Excision or destruction of lesion of chest wall
+9,346,Scarification of pleura
+9,362,Heart revascularization by arterial implant
+9,392,Other shunt or vascular bypass
+9,390,Systemic to pulmonary artery shunt
+9,391,Intra-abdominal venous shunt
+9,387,Interruption of the vena cava
+9,370,Pericardiocentesis
+9,411,Puncture of spleen
+9,412,Splenotomy
+9,415,Total splenectomy
+9,400,Incision of lymphatic structures
+9,403,Regional lymph node excision
+9,409,Other operations on lymphatic structures
+9,435,Partial gastrectomy with anastomosis to esophagus
+9,436,Partial gastrectomy with anastomosis to duodenum
+9,437,Partial gastrectomy with anastomosis to jejunum
+9,539,Other hernia repair
+9,427,Esophagomyotomy
+9,430,Gastrotomy
+9,433,Pyloromyotomy
+9,445,Revision of gastric anastomosis
+9,472,Drainage of appendiceal abscess
+9,480,Proctotomy
+9,481,Proctostomy
+9,496,Excision of anus
+9,500,Hepatotomy
+9,503,Lobectomy of liver
+9,504,Total hepatectomy
+9,523,Marsupialization of pancreatic cyst
+9,524,Internal drainage of pancreatic cyst
+9,526,Total pancreatectomy
+9,527,Radical pancreaticoduodenectomy
+9,540,Incision of abdominal wall
+9,543,Excision or destruction of lesion or tissue of abdominal wall or umbilicus
+9,544,Excision or destruction of peritoneal tissue
+9,560,Transurethral removal of obstruction from ureter and renal pelvis
+9,570,Transurethral clearance of bladder
+9,598,Ureteral catheterization
+9,554,Partial nephrectomy
+9,593,Plication of urethrovesical junction
+9,594,Suprapubic sling operation
+9,595,Retropubic urethral suspension
+9,596,Paraurethral suspension
+9,580,Urethrotomy
+9,581,Urethral meatotomy
+9,585,Release of urethral stricture
+9,586,Dilation of urethra
+9,557,Nephropexy
+9,561,Ureteral meatotomy
+9,562,Ureterotomy
+9,576,Partial cystectomy
+9,603,Suprapubic prostatectomy
+9,604,Retropubic prostatectomy
+9,605,Radical prostatectomy
+9,640,Circumcision
+9,610,Incision and drainage of scrotum and tunica vaginalis
+9,613,Excision or destruction of lesion or tissue of scrotum
+9,636,Vasotomy
+9,600,Incision of prostate
+9,612,Excision of hydrocele (of tunica vaginalis)
+9,620,Incision of testis
+9,622,Excision or destruction of testicular lesion
+9,623,Unilateral orchiectomy
+9,625,Orchiopexy
+9,627,Insertion of testicular prosthesis
+9,631,Excision of varicocele and hydrocele of spermatic cord
+9,632,Excision of cyst of epididymis
+9,633,Excision of other lesion or tissue of spermatic cord and epididymis
+9,634,Epididymectomy
+9,642,Local excision or destruction of lesion of penis
+9,643,Amputation of penis
+9,645,"Operations for sex transformation, not elsewhere classified"
+9,743,Removal of extratubal ectopic pregnancy
+9,664,Total unilateral salpingectomy
+9,668,Insufflation of fallopian tube
+9,689,Other and unspecified hysterectomy
+9,672,Conization of cervix
+9,674,Amputation of cervix
+9,750,Intra-amniotic injection for abortion
+9,708,Obliteration of vaginal vault
+9,670,Dilation of cervical canal
+9,696,Menstrual extraction or regulation
+9,697,Insertion of intrauterine contraceptive device
+9,700,Culdocentesis
+9,680,Hysterotomy
+9,688,Pelvic evisceration
+9,693,Paracervical uterine denervation
+9,704,Obliteration and total excision of vagina
+9,713,Other local excision or destruction of vulva and perineum
+9,714,Operations on clitoris
+9,715,Radical vulvectomy
+9,718,Other operations on vulva
+9,719,Other operations on female genital organs
+9,736,Episiotomy
+9,740,Classical cesarean section
+9,741,Low cervical cesarean section
+9,742,Extraperitoneal cesarean section
+9,744,Cesarean section of other specified type
+9,720,Low forceps operation
+9,721,Low forceps operation with episiotomy
+9,724,Forceps rotation of fetal head
+9,726,Forceps application to aftercoming head
+9,728,Other specified instrumental delivery
+9,729,Unspecified instrumental delivery
+9,733,Failed forceps
+9,731,Other surgical induction of labor
+9,734,Medical induction of labor
+9,738,Operations on fetus to facilitate delivery
+9,751,Diagnostic amniocentesis
+9,752,Intrauterine transfusion
+9,754,Manual removal of retained placenta
+9,757,"Manual exploration of uterine cavity, postpartum"
+9,758,Obstetric tamponade of uterus or vagina
+9,762,Local excision or destruction of lesion of facial bone
+9,806,Excision of semilunar cartilage of knee
+9,835,Bursectomy
+9,765,Temporomandibular arthroplasty
+9,843,Revision of amputation stump
+9,863,Other local excision or destruction of lesion or tissue of skin and subcutaneous tissue
+9,864,Radical excision of skin lesion
+9,850,Mastotomy
+9,856,Mastopexy
+9,336,Combined heart-lung transplantation
+9,966,Enteral infusion of concentrated nutritional substances
+9,897,General physical examination
+9,898,Autopsy
+10,008,"Central Nervous System and Cranial Nerves, Division"
+10,009,"Central Nervous System and Cranial Nerves, Drainage"
+10,00B,"Central Nervous System and Cranial Nerves, Excision"
+10,00D,"Central Nervous System and Cranial Nerves, Extraction"
+10,00T,"Central Nervous System and Cranial Nerves, Resection"
+10,0W9,"Anatomical Regions, General, Drainage"
+10,0WC,"Anatomical Regions, General, Extirpation"
+10,0WH,"Anatomical Regions, General, Insertion"
+10,3E0,"Administration, Phys Sys & Anat Regions, Introduce Administration, Physiological Systems and Anatomical Regions, Introduction"
+10,0G5,"Endocrine System, Destruction"
+10,0GB,"Endocrine System, Excision"
+10,0GT,"Endocrine System, Resection"
+10,0T9,"Urinary System, Drainage"
+10,0TB,"Urinary System, Excision"
+10,0TJ,"Urinary System, Inspection"
+10,0T5,"Urinary System, Destruction"
+10,0TC,"Urinary System, Extirpation"
+10,0TN,"Urinary System, Release"
+10,0T7,"Urinary System, Dilation"
+10,0TT,"Urinary System, Resection"
+10,0TY,"Urinary System, Transplantation"
+10,0TU,"Urinary System, Supplement"
+10,0TF,"Urinary System, Fragmentation"
+10,0WF,"Anatomical Regions, General, Fragmentation"
+10,0TH,"Urinary System, Insertion"
+10,0TL,"Urinary System, Occlusion"
+10,0TM,"Urinary System, Reattachment"
+10,0TP,"Urinary System, Removal"
+10,0TQ,"Urinary System, Repair"
+10,0TR,"Urinary System, Replacement"
+10,0TS,"Urinary System, Reposition"
+10,0TV,"Urinary System, Restriction"
+10,0TW,"Urinary System, Revision"
+10,0G9,"Endocrine System, Drainage"
+10,0GH,"Endocrine System, Insertion"
+10,0GJ,"Endocrine System, Inspection"
+10,0WJ,"Anatomical Regions, General, Inspection"
+10,3E1,"Administration, Phys Sys & Anat Regions, Irrigate Administration, Physiological Systems and Anatomical Regions, Irrigation"
+10,0T2,"Urinary System, Change"
+10,0WP,"Anatomical Regions, General, Removal"
+10,0WW,"Anatomical Regions, General, Revision"
+10,2Y0,"Placement, Anatomical Orifices, Change"
+10,2Y4,"Placement, Anatomical Orifices, Packing"
+10,2Y5,"Placement, Anatomical Orifices, Removal"
+10,0T1,"Urinary System, Bypass"
+10,0T8,"Urinary System, Division"
+10,0TD,"Urinary System, Extraction"
+10,0W3,"Anatomical Regions, General, Control"
+10,0V5,"Male Reproductive System, Destruction"
+10,0VB,"Male Reproductive System, Excision"
+10,0VT,"Male Reproductive System, Resection"
+10,XV5,ICD-10 Root Operation XV5
+10,0V9,"Male Reproductive System, Drainage"
+10,0VJ,"Male Reproductive System, Inspection"
+10,0WB,"Anatomical Regions, General, Excision"
+10,0V2,"Male Reproductive System, Change"
+10,0VC,"Male Reproductive System, Extirpation"
+10,0VH,"Male Reproductive System, Insertion"
+10,0VL,"Male Reproductive System, Occlusion"
+10,0VN,"Male Reproductive System, Release"
+10,0VP,"Male Reproductive System, Removal"
+10,0VQ,"Male Reproductive System, Repair"
+10,0VU,"Male Reproductive System, Supplement"
+10,0VW,"Male Reproductive System, Revision"
+10,0W2,"Anatomical Regions, General, Change"
+10,8E0,"Oth proc, Phys Sys & Anat Regions, Other Procedures Other Procedures, Physiological Systems and Anatomical Regions, Other Procedures"
+10,0V1,"Male Reproductive System, Bypass"
+10,0V7,"Male Reproductive System, Dilation"
+10,0VM,"Male Reproductive System, Reattachment"
+10,0VR,"Male Reproductive System, Replacement"
+10,0VS,"Male Reproductive System, Reposition"
+10,0VX,"Male Reproductive System, Transfer"
+10,0W0,"Anatomical Regions, General, Alteration"
+10,0W4,"Anatomical Regions, General, Creation"
+10,0WM,"Anatomical Regions, General, Reattachment"
+10,0WQ,"Anatomical Regions, General, Repair"
+10,0WU,"Anatomical Regions, General, Supplement"
+10,0UT,"Female Reproductive System, Resection"
+10,0G2,"Endocrine System, Change"
+10,0G8,"Endocrine System, Division"
+10,0GC,"Endocrine System, Extirpation"
+10,0GM,"Endocrine System, Reattachment"
+10,0GN,"Endocrine System, Release"
+10,0GP,"Endocrine System, Removal"
+10,0GQ,"Endocrine System, Repair"
+10,0GS,"Endocrine System, Reposition"
+10,0GW,"Endocrine System, Revision"
+10,0U5,"Female Reproductive System, Destruction"
+10,0U8,"Female Reproductive System, Division"
+10,0U9,"Female Reproductive System, Drainage"
+10,0UB,"Female Reproductive System, Excision"
+10,0UC,"Female Reproductive System, Extirpation"
+10,0UD,"Female Reproductive System, Extraction"
+10,0UH,"Female Reproductive System, Insertion"
+10,0UM,"Female Reproductive System, Reattachment"
+10,0UN,"Female Reproductive System, Release"
+10,0UP,"Female Reproductive System, Removal"
+10,0UQ,"Female Reproductive System, Repair"
+10,0US,"Female Reproductive System, Reposition"
+10,0UW,"Female Reproductive System, Revision"
+10,0UL,"Female Reproductive System, Occlusion"
+10,10D,"Obstetrics, Pregnancy, Extraction"
+10,10T,"Obstetrics, Pregnancy, Resection"
+10,0U1,"Female Reproductive System, Bypass"
+10,0U7,"Female Reproductive System, Dilation"
+10,0UF,"Female Reproductive System, Fragmentation"
+10,0UU,"Female Reproductive System, Supplement"
+10,10A,"Obstetrics, Pregnancy, Abortion"
+10,08R,"Eye, Replacement"
+10,0UJ,"Female Reproductive System, Inspection"
+10,0U2,"Female Reproductive System, Change"
+10,0W1,"Anatomical Regions, General, Bypass"
+10,0W8,"Anatomical Regions, General, Division"
+10,109,"Obstetrics, Pregnancy, Drainage"
+10,10E,"Obstetrics, Pregnancy, Delivery"
+10,10S,"Obstetrics, Pregnancy, Reposition"
+10,10H,"Obstetrics, Pregnancy, Insertion"
+10,10J,"Obstetrics, Pregnancy, Inspection"
+10,4A0,"Msrmt & Monitor, Physiological Sys, Measure Measurement and Monitoring, Physiological Systems, Measurement"
+10,4A1,"Msrmt & Monitor, Physiological Sys, Monitor Measurement and Monitoring, Physiological Systems, Monitoring"
+10,081,"Eye, Bypass"
+10,085,"Eye, Destruction"
+10,089,"Eye, Drainage"
+10,08B,"Eye, Excision"
+10,08Q,"Eye, Repair"
+10,0UV,"Female Reproductive System, Restriction"
+10,102,"Obstetrics, Pregnancy, Change"
+10,10P,"Obstetrics, Pregnancy, Removal"
+10,10Q,"Obstetrics, Pregnancy, Repair"
+10,10Y,"Obstetrics, Pregnancy, Transplantation"
+10,0NB,"Head and Facial Bones, Excision"
+10,0ND,"Head and Facial Bones, Extraction"
+10,0PB,"Upper Bones, Excision"
+10,0QB,"Lower Bones, Excision"
+10,0NS,"Head and Facial Bones, Reposition"
+10,0RG,"Upper Joints, Fusion"
+10,0RS,"Upper Joints, Reposition"
+10,0PH,"Upper Bones, Insertion"
+10,0PS,"Upper Bones, Reposition"
+10,0PW,"Upper Bones, Revision"
+10,0QH,"Lower Bones, Insertion"
+10,0QP,"Lower Bones, Removal"
+10,0QS,"Lower Bones, Reposition"
+10,0QW,"Lower Bones, Revision"
+10,0SS,"Lower Joints, Reposition"
+10,0NH,"Head and Facial Bones, Insertion"
+10,0NW,"Head and Facial Bones, Revision"
+10,XNS,"New Technology, Bones, Reposition"
+10,0RJ,"Upper Joints, Inspection"
+10,0SJ,"Lower Joints, Inspection"
+10,08C,"Eye, Extirpation"
+10,08D,"Eye, Extraction"
+10,08N,"Eye, Release"
+10,08P,"Eye, Removal"
+10,08S,"Eye, Reposition"
+10,08T,"Eye, Resection"
+10,08W,"Eye, Revision"
+10,0M8,"Bursae and Ligaments, Division"
+10,0MN,"Bursae and Ligaments, Release"
+10,0RN,"Upper Joints, Release"
+10,0SN,"Lower Joints, Release"
+10,0SR,"Lower Joints, Replacement"
+10,0SU,"Lower Joints, Supplement"
+10,0RR,"Upper Joints, Replacement"
+10,0RU,"Upper Joints, Supplement"
+10,0R9,"Upper Joints, Drainage"
+10,0S9,"Lower Joints, Drainage"
+10,0Y9,"Anatomical Regions, Lower Extremities, Drainage"
+10,0K9,"Muscles, Drainage"
+10,0L9,"Tendons, Drainage"
+10,0M9,"Bursae and Ligaments, Drainage"
+10,0Y6,"Anatomical Regions, Lower Extremities, Detachment"
+10,0SG,"Lower Joints, Fusion"
+10,XRG,"New Technology, Joints, Fusion"
+10,0KB,"Muscles, Excision"
+10,0KJ,"Muscles, Inspection"
+10,0LB,"Tendons, Excision"
+10,0LJ,"Tendons, Inspection"
+10,0MB,"Bursae and Ligaments, Excision"
+10,0MJ,"Bursae and Ligaments, Inspection"
+10,0N9,"Head and Facial Bones, Drainage"
+10,0NJ,"Head and Facial Bones, Inspection"
+10,0P9,"Upper Bones, Drainage"
+10,0PJ,"Upper Bones, Inspection"
+10,0Q9,"Lower Bones, Drainage"
+10,0QJ,"Lower Bones, Inspection"
+10,0RB,"Upper Joints, Excision"
+10,0SB,"Lower Joints, Excision"
+10,0X9,"Anatomical Regions, Upper Extremities, Drainage"
+10,0XB,"Anatomical Regions, Upper Extremities, Excision"
+10,0XJ,"Anatomical Regions, Upper Extremities, Inspection"
+10,0YB,"Anatomical Regions, Lower Extremities, Excision"
+10,0YJ,"Anatomical Regions, Lower Extremities, Inspection"
+10,XR2,ICD-10 Root Operation XR2
+10,08U,"Eye, Supplement"
+10,0K5,"Muscles, Destruction"
+10,0K8,"Muscles, Division"
+10,0KC,"Muscles, Extirpation"
+10,0KD,"Muscles, Extraction"
+10,0KH,"Muscles, Insertion"
+10,0KM,"Muscles, Reattachment"
+10,0KN,"Muscles, Release"
+10,0KP,"Muscles, Removal"
+10,0KQ,"Muscles, Repair"
+10,0KR,"Muscles, Replacement"
+10,0KS,"Muscles, Reposition"
+10,0KT,"Muscles, Resection"
+10,0KU,"Muscles, Supplement"
+10,0KW,"Muscles, Revision"
+10,0KX,"Muscles, Transfer"
+10,0L5,"Tendons, Destruction"
+10,0L8,"Tendons, Division"
+10,0LC,"Tendons, Extirpation"
+10,0LD,"Tendons, Extraction"
+10,0LH,"Tendons, Insertion"
+10,0LM,"Tendons, Reattachment"
+10,0LN,"Tendons, Release"
+10,0LP,"Tendons, Removal"
+10,0LQ,"Tendons, Repair"
+10,0LR,"Tendons, Replacement"
+10,0LS,"Tendons, Reposition"
+10,0LT,"Tendons, Resection"
+10,0LU,"Tendons, Supplement"
+10,0LW,"Tendons, Revision"
+10,0LX,"Tendons, Transfer"
+10,0XR,"Anatomical Regions, Upper Extremities, Replacement"
+10,0XX,"Anatomical Regions, Upper Extremities, Transfer"
+10,0N5,"Head and Facial Bones, Destruction"
+10,0N8,"Head and Facial Bones, Division"
+10,0NC,"Head and Facial Bones, Extirpation"
+10,0NN,"Head and Facial Bones, Release"
+10,0NP,"Head and Facial Bones, Removal"
+10,0NQ,"Head and Facial Bones, Repair"
+10,0NR,"Head and Facial Bones, Replacement"
+10,0NT,"Head and Facial Bones, Resection"
+10,0NU,"Head and Facial Bones, Supplement"
+10,0P5,"Upper Bones, Destruction"
+10,0P8,"Upper Bones, Division"
+10,0PC,"Upper Bones, Extirpation"
+10,0PD,"Upper Bones, Extraction"
+10,0PN,"Upper Bones, Release"
+10,0PP,"Upper Bones, Removal"
+10,0PQ,"Upper Bones, Repair"
+10,0PR,"Upper Bones, Replacement"
+10,0PT,"Upper Bones, Resection"
+10,0PU,"Upper Bones, Supplement"
+10,0Q5,"Lower Bones, Destruction"
+10,0Q8,"Lower Bones, Division"
+10,0QC,"Lower Bones, Extirpation"
+10,0QD,"Lower Bones, Extraction"
+10,0QN,"Lower Bones, Release"
+10,0QQ,"Lower Bones, Repair"
+10,0QR,"Lower Bones, Replacement"
+10,0QT,"Lower Bones, Resection"
+10,0QU,"Lower Bones, Supplement"
+10,0R5,"Upper Joints, Destruction"
+10,0RC,"Upper Joints, Extirpation"
+10,0RH,"Upper Joints, Insertion"
+10,0RP,"Upper Joints, Removal"
+10,0RQ,"Upper Joints, Repair"
+10,0RT,"Upper Joints, Resection"
+10,0RW,"Upper Joints, Revision"
+10,0S5,"Lower Joints, Destruction"
+10,0SC,"Lower Joints, Extirpation"
+10,0SH,"Lower Joints, Insertion"
+10,0SP,"Lower Joints, Removal"
+10,0SQ,"Lower Joints, Repair"
+10,0ST,"Lower Joints, Resection"
+10,0SW,"Lower Joints, Revision"
+10,0K2,"Muscles, Change"
+10,0L2,"Tendons, Change"
+10,0M2,"Bursae and Ligaments, Change"
+10,0MH,"Bursae and Ligaments, Insertion"
+10,0MP,"Bursae and Ligaments, Removal"
+10,0MW,"Bursae and Ligaments, Revision"
+10,0N2,"Head and Facial Bones, Change"
+10,0P2,"Upper Bones, Change"
+10,0Q2,"Lower Bones, Change"
+10,0R2,"Upper Joints, Change"
+10,0S2,"Lower Joints, Change"
+10,0X2,"Anatomical Regions, Upper Extremities, Change"
+10,0XH,"Anatomical Regions, Upper Extremities, Insertion"
+10,0XP,"Anatomical Regions, Upper Extremities, Removal"
+10,0XW,"Anatomical Regions, Upper Extremities, Revision"
+10,0Y2,"Anatomical Regions, Lower Extremities, Change"
+10,0YH,"Anatomical Regions, Lower Extremities, Insertion"
+10,0YP,"Anatomical Regions, Lower Extremities, Removal"
+10,0YW,"Anatomical Regions, Lower Extremities, Revision"
+10,0M5,"Bursae and Ligaments, Destruction"
+10,0MC,"Bursae and Ligaments, Extirpation"
+10,0MD,"Bursae and Ligaments, Extraction"
+10,0MM,"Bursae and Ligaments, Reattachment"
+10,0MQ,"Bursae and Ligaments, Repair"
+10,0MR,"Bursae and Ligaments, Replacement"
+10,0MS,"Bursae and Ligaments, Reposition"
+10,0MT,"Bursae and Ligaments, Resection"
+10,0MU,"Bursae and Ligaments, Supplement"
+10,0MX,"Bursae and Ligaments, Transfer"
+10,0X0,"Anatomical Regions, Upper Extremities, Alteration"
+10,0X6,"Anatomical Regions, Upper Extremities, Detachment"
+10,0XM,"Anatomical Regions, Upper Extremities, Reattachment"
+10,0XQ,"Anatomical Regions, Upper Extremities, Repair"
+10,0XU,"Anatomical Regions, Upper Extremities, Supplement"
+10,0Y0,"Anatomical Regions, Lower Extremities, Alteration"
+10,0YM,"Anatomical Regions, Lower Extremities, Reattachment"
+10,0YQ,"Anatomical Regions, Lower Extremities, Repair"
+10,0YU,"Anatomical Regions, Lower Extremities, Supplement"
+10,0H9,"Skin and Breast, Drainage"
+10,0HB,"Skin and Breast, Excision"
+10,0HJ,"Skin and Breast, Inspection"
+10,0HD,"Skin and Breast, Extraction"
+10,0HT,"Skin and Breast, Resection"
+10,0J9,"Subcutaneous Tissue and Fascia, Drainage"
+10,0HQ,"Skin and Breast, Repair"
+10,0JQ,"Subcutaneous Tissue and Fascia, Repair"
+10,0HR,"Skin and Breast, Replacement"
+10,0HX,"Skin and Breast, Transfer"
+10,XHR,"New Tech, Skin & Breast, Subcu Tiss & Fascia, Replace New Technology, Skin, Subcutaneous Tissue, Fascia and Breast, Replacement"
+10,0JB,"Subcutaneous Tissue and Fascia, Excision"
+10,0JH,"Subcutaneous Tissue and Fascia, Insertion"
+10,0JJ,"Subcutaneous Tissue and Fascia, Inspection"
+10,0H0,"Skin and Breast, Alteration"
+10,0H2,"Skin and Breast, Change"
+10,0H5,"Skin and Breast, Destruction"
+10,0H8,"Skin and Breast, Division"
+10,0HC,"Skin and Breast, Extirpation"
+10,0HH,"Skin and Breast, Insertion"
+10,0HM,"Skin and Breast, Reattachment"
+10,0HP,"Skin and Breast, Removal"
+10,0HS,"Skin and Breast, Reposition"
+10,0HU,"Skin and Breast, Supplement"
+10,0HW,"Skin and Breast, Revision"
+10,0J2,"Subcutaneous Tissue and Fascia, Change"
+10,0J5,"Subcutaneous Tissue and Fascia, Destruction"
+10,0JC,"Subcutaneous Tissue and Fascia, Extirpation"
+10,0JD,"Subcutaneous Tissue and Fascia, Extraction"
+10,0JP,"Subcutaneous Tissue and Fascia, Removal"
+10,0JW,"Subcutaneous Tissue and Fascia, Revision"
+10,0HN,"Skin and Breast, Release"
+10,0J0,"Subcutaneous Tissue and Fascia, Alteration"
+10,0J8,"Subcutaneous Tissue and Fascia, Division"
+10,0JN,"Subcutaneous Tissue and Fascia, Release"
+10,0JR,"Subcutaneous Tissue and Fascia, Replacement"
+10,0JU,"Subcutaneous Tissue and Fascia, Supplement"
+10,0JX,"Subcutaneous Tissue and Fascia, Transfer"
+10,02Y,"Heart and Great Vessels, Transplantation"
+10,07Y,"Lymphatic and Hemic Systems, Transplantation"
+10,0BY,"Respiratory System, Transplantation"
+10,0DY,"Gastrointestinal System, Transplantation"
+10,0FY,"Hepatobiliary System and Pancreas, Transplantation"
+10,0UY,"Female Reproductive System, Transplantation"
+10,0WY,"Anatomical Regions, General, Transplantation"
+10,0XY,"Anatomical Regions, Upper Extremities, Transplantation"
+10,B02,"Imaging, Central Nervous Sys, CT Scan Imaging, Central Nervous System, Computerized Tomography (CT Scan)"
+10,B32,"Imaging, Upper Arteries, Computerized Tomography (CT Scan)"
+10,B52,"Imaging, Veins, Computerized Tomography (CT Scan)"
+10,B82,"Imaging, Eye, Computerized Tomography (CT Scan)"
+10,B92,"Imaging, ENT & Mouth, CT Scan Imaging, Ear, Nose, Mouth and Throat, Computerized Tomography (CT Scan)"
+10,BG2,"Imaging, Endocrine System, Computerized Tomography (CT Scan)"
+10,BN2,"Imaging, Skull & Facial Bones, CT Scan Imaging, Skull and Facial Bones, Computerized Tomography (CT Scan)"
+10,BW2,"Imaging, Anatomical Regions, CT Scan Imaging, Anatomical Regions, Computerized Tomography (CT Scan)"
+10,B22,"Imaging, Heart, Computerized Tomography (CT Scan)"
+10,BB2,"Imaging, Resp Sys, CT Scan Imaging, Respiratory System, Computerized Tomography (CT Scan)"
+10,BP2,"Imaging, Non-Axial Up Bones, CT Scan Imaging, Non-Axial Upper Bones, Computerized Tomography (CT Scan)"
+10,B42,"Imaging, Lower Arteries, Computerized Tomography (CT Scan)"
+10,BD2,"Imaging, GI Sys, CT Scan Imaging, Gastrointestinal System, Computerized Tomography (CT Scan)"
+10,BF2,"Imaging, Hepatobiliary Sys & Pancreas, CT Scan Imaging, Hepatobiliary System and Pancreas, Computerized Tomography (CT Scan)"
+10,BR2,"Imaging, Axial Skel, Exc Skull Facial, CT Scan Imaging, Axial Skeleton, Except Skull and Facial Bones, Computerized Tomography (CT Scan)"
+10,BT2,"Imaging, Urinary System, Computerized Tomography (CT Scan)"
+10,08J,"Eye, Inspection"
+10,BQ2,"Imaging, Non-Axial Low Bones, CT Scan Imaging, Non-Axial Lower Bones, Computerized Tomography (CT Scan)"
+10,BV2,"Imaging, Male Reprod Sys, CT Scan Imaging, Male Reproductive System, Computerized Tomography (CT Scan)"
+10,B00,"Imaging, Central Nervous System, Plain Radiography"
+10,B01,"Imaging, Central Nervous System, Fluoroscopy"
+10,BR0,"Imaging, Axial Skel, Exc Skull Facial, Radiography Imaging, Axial Skeleton, Except Skull and Facial Bones, Plain Radiography"
+10,BR1,"Imaging, Axial Skel, Exc Skull Facial, Fluoroscopy Imaging, Axial Skeleton, Except Skull and Facial Bones, Fluoroscopy"
+10,BH0,"Imaging, Skin, Subcu Tiss & Breast, Radiography Imaging, Skin, Subcutaneous Tissue and Breast, Plain Radiography"
+10,BW0,"Imaging, Anatomical Regions, Plain Radiography"
+10,BF0,"Imaging, Hepatobiliary Sys & Pancreas, Radiography Imaging, Hepatobiliary System and Pancreas, Plain Radiography"
+10,BD1,"Imaging, Gastrointestinal System, Fluoroscopy"
+10,BT1,"Imaging, Urinary System, Fluoroscopy"
+10,B30,"Imaging, Upper Arteries, Plain Radiography"
+10,B31,"Imaging, Upper Arteries, Fluoroscopy"
+10,B40,"Imaging, Lower Arteries, Plain Radiography"
+10,B41,"Imaging, Lower Arteries, Fluoroscopy"
+10,080,"Eye, Alteration"
+10,087,"Eye, Dilation"
+10,08L,"Eye, Occlusion"
+10,08M,"Eye, Reattachment"
+10,08V,"Eye, Restriction"
+10,B50,"Imaging, Veins, Plain Radiography"
+10,B51,"Imaging, Veins, Fluoroscopy"
+10,B04,"Imaging, Central Nervous System, Ultrasonography"
+10,B34,"Imaging, Upper Arteries, Ultrasonography"
+10,B54,"Imaging, Veins, Ultrasonography"
+10,B84,"Imaging, Eye, Ultrasonography"
+10,BH4,"Imaging, Skin, Subcu Tiss & Breast, Ultrasound Imaging, Skin, Subcutaneous Tissue and Breast, Ultrasonography"
+10,BW4,"Imaging, Anatomical Regions, Ultrasonography"
+10,B24,"Imaging, Heart, Ultrasonography"
+10,BD4,"Imaging, Gastrointestinal System, Ultrasonography"
+10,BF4,"Imaging, Hepatobiliary System and Pancreas, Ultrasonography"
+10,B44,"Imaging, Lower Arteries, Ultrasonography"
+10,BT4,"Imaging, Urinary System, Ultrasonography"
+10,BB4,"Imaging, Respiratory System, Ultrasonography"
+10,BG4,"Imaging, Endocrine System, Ultrasonography"
+10,BL4,"Imaging, Connective Tissue, Ultrasonography"
+10,BP4,"Imaging, Non-Axial Upper Bones, Ultrasonography"
+10,BQ4,"Imaging, Non-Axial Lower Bones, Ultrasonography"
+10,BR4,"Imaging, Axial Skel, Exc Skull Facial, Ultrasound Imaging, Axial Skeleton, Except Skull and Facial Bones, Ultrasonography"
+10,BU4,"Imaging, Female Reproductive System, Ultrasonography"
+10,BV4,"Imaging, Male Reproductive System, Ultrasonography"
+10,BY4,"Imaging, Fetus and Obstetrical, Ultrasonography"
+10,B03,"Imaging, Central Nervous Sys, MRI Imaging, Central Nervous System, Magnetic Resonance Imaging (MRI)"
+10,B23,"Imaging, Heart, Magnetic Resonance Imaging (MRI)"
+10,B33,"Imaging, Upper Arteries, Magnetic Resonance Imaging (MRI)"
+10,B43,"Imaging, Lower Arteries, Magnetic Resonance Imaging (MRI)"
+10,B53,"Imaging, Veins, Magnetic Resonance Imaging (MRI)"
+10,B83,"Imaging, Eye, Magnetic Resonance Imaging (MRI)"
+10,B93,"Imaging, ENT & Mouth, MRI Imaging, Ear, Nose, Mouth and Throat, Magnetic Resonance Imaging (MRI)"
+10,BB3,"Imaging, Resp Sys, MRI Imaging, Respiratory System, Magnetic Resonance Imaging (MRI)"
+10,BF3,"Imaging, Hepatobiliary Sys & Pancreas, MRI Imaging, Hepatobiliary System and Pancreas, Magnetic Resonance Imaging (MRI)"
+10,BG3,"Imaging, Endocrine System, Magnetic Resonance Imaging (MRI)"
+10,BH3,"Imaging, Skin, Subcu Tiss & Breast, MRI Imaging, Skin, Subcutaneous Tissue and Breast, Magnetic Resonance Imaging (MRI)"
+10,BL3,"Imaging, Connective Tissue, Magnetic Resonance Imaging (MRI)"
+10,BN3,"Imaging, Skull & Facial Bones, MRI Imaging, Skull and Facial Bones, Magnetic Resonance Imaging (MRI)"
+10,BP3,"Imaging, Non-Axial Up Bones, MRI Imaging, Non-Axial Upper Bones, Magnetic Resonance Imaging (MRI)"
+10,BQ3,"Imaging, Non-Axial Low Bones, MRI Imaging, Non-Axial Lower Bones, Magnetic Resonance Imaging (MRI)"
+10,BR3,"Imaging, Axial Skel, Exc Skull Facial, MRI Imaging, Axial Skeleton, Except Skull and Facial Bones, Magnetic Resonance Imaging (MRI)"
+10,BT3,"Imaging, Urinary System, Magnetic Resonance Imaging (MRI)"
+10,BU3,"Imaging, Fem Reprod Sys, MRI Imaging, Female Reproductive System, Magnetic Resonance Imaging (MRI)"
+10,BV3,"Imaging, Male Reprod Sys, MRI Imaging, Male Reproductive System, Magnetic Resonance Imaging (MRI)"
+10,BW3,"Imaging, Anatomical Regions, MRI Imaging, Anatomical Regions, Magnetic Resonance Imaging (MRI)"
+10,BY3,"Imaging, Fetus & Obstetrical, MRI Imaging, Fetus and Obstetrical, Magnetic Resonance Imaging (MRI)"
+10,001,"Central Nervous System and Cranial Nerves, Bypass"
+10,00P,"Central Nervous System and Cranial Nerves, Removal"
+10,00W,"Central Nervous System and Cranial Nerves, Revision"
+10,08F,"Eye, Fragmentation"
+10,XT2,"New Technology, Urinary System, Monitoring"
+10,02H,"Heart and Great Vessels, Insertion"
+10,CP1,"Nuclear Medicine, MS Sys, Planar Nucl Med Imag Nuclear Medicine, Musculoskeletal System, Planar Nuclear Medicine Imaging"
+10,CP2,"Nuclear Medicine, MS Sys, Tomo Nucl Med Imag Nuclear Medicine, Musculoskeletal System, Tomographic (Tomo) Nuclear Medicine Imaging"
+10,CB1,"Nuclear Medicine, Resp Sys, Planar Nucl Med Imag Nuclear Medicine, Respiratory System, Planar Nuclear Medicine Imaging"
+10,CB2,"Nuclear Medicine, Resp Sys, Tomo Nucl Med Imag Nuclear Medicine, Respiratory System, Tomographic (Tomo) Nuclear Medicine Imaging"
+10,CB3,"Nuclear Medicine, Resp Sys, PET Imag Nuclear Medicine, Respiratory System, Positron Emission Tomographic (PET) Imaging"
+10,C05,"Nuclear Medicine, Central Nervous Sys, Nonimag Nucl Med Prob Nuclear Medicine, Central Nervous System, Nonimaging Nuclear Medicine Probe"
+10,C25,"Nuclear Medicine, Heart, Nonimaging Nuclear Medicine Probe"
+10,C75,"Nuclear Medicine, Lymph & Hemat Sys, Nonimag Nucl Med Prob Nuclear Medicine, Lymphatic and Hematologic System, Nonimaging Nuclear Medicine Probe"
+10,C76,"Nuclear Medicine, Lymph & Hemat Sys, Nonimag Nucl Med Assay Nuclear Medicine, Lymphatic and Hematologic System, Nonimaging Nuclear Medicine Assay"
+10,CP5,"Nuclear Medicine, MS Sys, Nonimag Nucl Med Prob Nuclear Medicine, Musculoskeletal System, Nonimaging Nuclear Medicine Probe"
+10,CT6,"Nuclear Medicine, Urinary Sys, Nonimag Nucl Med Assay Nuclear Medicine, Urinary System, Nonimaging Nuclear Medicine Assay"
+10,CW5,"Nuclear Medicine, Anatomical Regions, Nonimag Nucl Med Prob Nuclear Medicine, Anatomical Regions, Nonimaging Nuclear Medicine Probe"
+10,082,"Eye, Change"
+10,08H,"Eye, Insertion"
+10,08X,"Eye, Transfer"
+10,C01,"Nuclear Medicine, Central Nervous Sys, Planar Nucl Med Imag Nuclear Medicine, Central Nervous System, Planar Nuclear Medicine Imaging"
+10,C02,"Nuclear Medicine, Central Nervous Sys, Tomo Nucl Med Imag Nuclear Medicine, Central Nervous System, Tomographic (Tomo) Nuclear Medicine Imaging"
+10,C03,"Nuclear Medicine, Central Nervous Sys, PET Imag Nuclear Medicine, Central Nervous System, Positron Emission Tomographic (PET) Imaging"
+10,C21,"Nuclear Medicine, Heart, Planar Nuclear Medicine Imaging"
+10,C22,"Nuclear Medicine, Heart, Tomo Nucl Med Imag Nuclear Medicine, Heart, Tomographic (Tomo) Nuclear Medicine Imaging"
+10,C23,"Nuclear Medicine, Heart, PET Imag Nuclear Medicine, Heart, Positron Emission Tomographic (PET) Imaging"
+10,C51,"Nuclear Medicine, Veins, Planar Nuclear Medicine Imaging"
+10,C71,"Nuclear Medicine, Lymph & Hemat Sys, Planar Nucl Med Imag Nuclear Medicine, Lymphatic and Hematologic System, Planar Nuclear Medicine Imaging"
+10,C72,"Nuclear Medicine, Lymph & Hemat Sys, Tomo Nucl Med Imag Nuclear Medicine, Lymphatic and Hematologic System, Tomographic (Tomo) Nuclear Medicine Imaging"
+10,C81,"Nuclear Medicine, Eye, Planar Nuclear Medicine Imaging"
+10,C91,"Nuclear Medicine, ENT & Mouth, Planar Nucl Med Imag Nuclear Medicine, Ear, Nose, Mouth and Throat, Planar Nuclear Medicine Imaging"
+10,CD1,"Nuclear Medicine, GI Sys, Planar Nucl Med Imag Nuclear Medicine, Gastrointestinal System, Planar Nuclear Medicine Imaging"
+10,CD2,"Nuclear Medicine, GI Sys, Tomo Nucl Med Imag Nuclear Medicine, Gastrointestinal System, Tomographic (Tomo) Nuclear Medicine Imaging"
+10,CF1,"Nuclear Medicine, Hepatobil Pancreas, Planar Nucl Med Imag Nuclear Medicine, Hepatobiliary System and Pancreas, Planar Nuclear Medicine Imaging"
+10,CF2,"Nuclear Medicine, Hepatobil Pancreas, Tomo Nucl Med Imag Nuclear Medicine, Hepatobiliary System and Pancreas, Tomographic (Tomo) Nuclear Medicine Imaging"
+10,CG1,"Nuclear Medicine, Endocrine Sys, Planar Nucl Med Imag Nuclear Medicine, Endocrine System, Planar Nuclear Medicine Imaging"
+10,CG2,"Nuclear Medicine, Endocrine Sys, Tomo Nucl Med Imag Nuclear Medicine, Endocrine System, Tomographic (Tomo) Nuclear Medicine Imaging"
+10,CG4,"Nuclear Medicine, Endocrine Sys, Nonimag Nucl Med Uptake Nuclear Medicine, Endocrine System, Nonimaging Nuclear Medicine Uptake"
+10,CH1,"Nuclear Medicine, Skin Subcu Breast, Planar Nucl Med Imag Nuclear Medicine, Skin, Subcutaneous Tissue and Breast, Planar Nuclear Medicine Imaging"
+10,CH2,"Nuclear Medicine, Skin Subcu Breast, Tomo Nucl Med Imag Nuclear Medicine, Skin, Subcutaneous Tissue and Breast, Tomographic (Tomo) Nuclear Medicine Imaging"
+10,CT1,"Nuclear Medicine, Urinary Sys, Planar Nucl Med Imag Nuclear Medicine, Urinary System, Planar Nuclear Medicine Imaging"
+10,CT2,"Nuclear Medicine, Urinary Sys, Tomo Nucl Med Imag Nuclear Medicine, Urinary System, Tomographic (Tomo) Nuclear Medicine Imaging"
+10,CV1,"Nuclear Medicine, Male Reprod Sys, Planar Nucl Med Imag Nuclear Medicine, Male Reproductive System, Planar Nuclear Medicine Imaging"
+10,CW1,"Nuclear Medicine, Anatomical Regions, Planar Nucl Med Imag Nuclear Medicine, Anatomical Regions, Planar Nuclear Medicine Imaging"
+10,CW2,"Nuclear Medicine, Anatomical Regions, Tomo Nucl Med Imag Nuclear Medicine, Anatomical Regions, Tomographic (Tomo) Nuclear Medicine Imaging"
+10,CW3,"Nuclear Medicine, Anatomical Regions, PET Imag Nuclear Medicine, Anatomical Regions, Positron Emission Tomographic (PET) Imaging"
+10,00H,"Central Nervous System and Cranial Nerves, Insertion"
+10,0BH,"Respiratory System, Insertion"
+10,0CH,"Mouth and Throat, Insertion"
+10,0DH,"Gastrointestinal System, Insertion"
+10,0FH,"Hepatobiliary System and Pancreas, Insertion"
+10,CW7,"Nuclear Medicine, Anatomical Regions, Sys Nucl Med Therapy Nuclear Medicine, Anatomical Regions, Systemic Nuclear Medicine Therapy"
+10,D00,"Radiation Therapy, Central Periph Nerv Sys, Beam Radiation Radiation Therapy, Central and Peripheral Nervous System, Beam Radiation"
+10,D01,"Radiation Therapy, Central Periph Nerv Sys, Brachytherapy Radiation Therapy, Central and Peripheral Nervous System, Brachytherapy"
+10,D02,"Radiation Therapy, Central Periph Nerv Sys, Stereo Radiosurg Radiation Therapy, Central and Peripheral Nervous System, Stereotactic Radiosurgery"
+10,D0Y,"Radiation Therapy, Central Periph Nerv Sys, Oth Radiation Radiation Therapy, Central and Peripheral Nervous System, Other Radiation"
+10,D70,"Radiation Therapy, Lymph & Hemat Sys, Beam Radiation Radiation Therapy, Lymphatic and Hematologic System, Beam Radiation"
+10,D71,"Radiation Therapy, Lymph & Hemat Sys, Brachytherapy Radiation Therapy, Lymphatic and Hematologic System, Brachytherapy"
+10,D72,"Radiation Therapy, Lymph & Hemat Sys, Stereo Radiosurg Radiation Therapy, Lymphatic and Hematologic System, Stereotactic Radiosurgery"
+10,D7Y,"Radiation Therapy, Lymph & Hemat Sys, Oth Radiation Radiation Therapy, Lymphatic and Hematologic System, Other Radiation"
+10,D80,"Radiation Therapy, Eye, Beam Radiation"
+10,D81,"Radiation Therapy, Eye, Brachytherapy"
+10,D82,"Radiation Therapy, Eye, Stereotactic Radiosurgery"
+10,D8Y,"Radiation Therapy, Eye, Other Radiation"
+10,D90,"Radiation Therapy, ENT & Mouth, Beam Radiation Radiation Therapy, Ear, Nose, Mouth and Throat, Beam Radiation"
+10,D91,"Radiation Therapy, ENT & Mouth, Brachytherapy Radiation Therapy, Ear, Nose, Mouth and Throat, Brachytherapy"
+10,D92,"Radiation Therapy, ENT & Mouth, Stereo Radiosurg Radiation Therapy, Ear, Nose, Mouth and Throat, Stereotactic Radiosurgery"
+10,D9Y,"Radiation Therapy, ENT & Mouth, Oth Radiation Radiation Therapy, Ear, Nose, Mouth and Throat, Other Radiation"
+10,DB0,"Radiation Therapy, Respiratory System, Beam Radiation"
+10,DB1,"Radiation Therapy, Respiratory System, Brachytherapy"
+10,DB2,"Radiation Therapy, Resp Sys, Stereo Radiosurg Radiation Therapy, Respiratory System, Stereotactic Radiosurgery"
+10,DBY,"Radiation Therapy, Respiratory System, Other Radiation"
+10,DD0,"Radiation Therapy, Gastrointestinal System, Beam Radiation"
+10,DD1,"Radiation Therapy, Gastrointestinal System, Brachytherapy"
+10,DD2,"Radiation Therapy, GI Sys, Stereo Radiosurg Radiation Therapy, Gastrointestinal System, Stereotactic Radiosurgery"
+10,DDY,"Radiation Therapy, Gastrointestinal System, Other Radiation"
+10,DF0,"Radiation Therapy, Hepatobil Pancreas, Beam Radiation Radiation Therapy, Hepatobiliary System and Pancreas, Beam Radiation"
+10,DF1,"Radiation Therapy, Hepatobil Pancreas, Brachytherapy Radiation Therapy, Hepatobiliary System and Pancreas, Brachytherapy"
+10,DF2,"Radiation Therapy, Hepatobil Pancreas, Stereo Radiosurg Radiation Therapy, Hepatobiliary System and Pancreas, Stereotactic Radiosurgery"
+10,DFY,"Radiation Therapy, Hepatobil Pancreas, Oth Radiation Radiation Therapy, Hepatobiliary System and Pancreas, Other Radiation"
+10,DG0,"Radiation Therapy, Endocrine System, Beam Radiation"
+10,DG1,"Radiation Therapy, Endocrine System, Brachytherapy"
+10,DG2,"Radiation Therapy, Endocrine Sys, Stereo Radiosurg Radiation Therapy, Endocrine System, Stereotactic Radiosurgery"
+10,DGY,"Radiation Therapy, Endocrine System, Other Radiation"
+10,DH0,"Radiation Therapy, Skin, Beam Radiation"
+10,DHY,"Radiation Therapy, Skin, Other Radiation"
+10,DM0,"Radiation Therapy, Breast, Beam Radiation"
+10,DM1,"Radiation Therapy, Breast, Brachytherapy"
+10,DM2,"Radiation Therapy, Breast, Stereotactic Radiosurgery"
+10,DMY,"Radiation Therapy, Breast, Other Radiation"
+10,DP0,"Radiation Therapy, Musculoskeletal System, Beam Radiation"
+10,DPY,"Radiation Therapy, Musculoskeletal System, Other Radiation"
+10,DT0,"Radiation Therapy, Urinary System, Beam Radiation"
+10,DT1,"Radiation Therapy, Urinary System, Brachytherapy"
+10,DT2,"Radiation Therapy, Urinary System, Stereotactic Radiosurgery"
+10,DTY,"Radiation Therapy, Urinary System, Other Radiation"
+10,DU0,"Radiation Therapy, Fem Reprod Sys, Beam Radiation Radiation Therapy, Female Reproductive System, Beam Radiation"
+10,DU1,"Radiation Therapy, Female Reproductive System, Brachytherapy"
+10,DU2,"Radiation Therapy, Fem Reprod Sys, Stereo Radiosurg Radiation Therapy, Female Reproductive System, Stereotactic Radiosurgery"
+10,DUY,"Radiation Therapy, Fem Reprod Sys, Oth Radiation Radiation Therapy, Female Reproductive System, Other Radiation"
+10,DV0,"Radiation Therapy, Male Reproductive System, Beam Radiation"
+10,DV1,"Radiation Therapy, Male Reproductive System, Brachytherapy"
+10,DV2,"Radiation Therapy, Male Reprod Sys, Stereo Radiosurg Radiation Therapy, Male Reproductive System, Stereotactic Radiosurgery"
+10,DVY,"Radiation Therapy, Male Reproductive System, Other Radiation"
+10,DW0,"Radiation Therapy, Anatomical Regions, Beam Radiation"
+10,DW1,"Radiation Therapy, Anatomical Regions, Brachytherapy"
+10,DW2,"Radiation Therapy, Anatomical Regions, Stereo Radiosurg Radiation Therapy, Anatomical Regions, Stereotactic Radiosurgery"
+10,DWY,"Radiation Therapy, Anatomical Regions, Other Radiation"
+10,4B0,"Msrmt & Monitor, Physiological Dev, Measure Measurement and Monitoring, Physiological Devices, Measurement"
+10,F00,"Phys Rehab & Diag Audiology, Rehab, Speech Assess Physical Rehabilitation and Diagnostic Audiology, Rehabilitation, Speech Assessment"
+10,F01,"Phys Rehab & Diag Audiology, Rehab, Motor/Nrv Assess Physical Rehabilitation and Diagnostic Audiology, Rehabilitation, Motor and/or Nerve Function Assessment"
+10,F02,"Phys Rehab & Diag Audiology, Rehab, ADL Assess Physical Rehabilitation and Diagnostic Audiology, Rehabilitation, Activities of Daily Living Assessment"
+10,9WB,"Chiropractic, Anatomical Regions, Manipulation"
+10,F07,"Phys Rehab & Diag Audiology, Rehab, Motor Trmt Physical Rehabilitation and Diagnostic Audiology, Rehabilitation, Motor Treatment"
+10,F0C,"Phys Rehab & Diag Audiology, Rehab, Vestib Trmt Physical Rehabilitation and Diagnostic Audiology, Rehabilitation, Vestibular Treatment"
+10,F0D,"Phys Rehab & Diag Audiology, Rehab, Device Fit Physical Rehabilitation and Diagnostic Audiology, Rehabilitation, Device Fitting"
+10,2W0,"Placement, Anatomical Regions, Change"
+10,2W1,"Placement, Anatomical Regions, Compression"
+10,2W2,"Placement, Anatomical Regions, Dressing"
+10,2W3,"Placement, Anatomical Regions, Immobilization"
+10,2W4,"Placement, Anatomical Regions, Packing"
+10,2W5,"Placement, Anatomical Regions, Removal"
+10,2W6,"Placement, Anatomical Regions, Traction"
+10,F08,"Phys Rehab & Diag Audiology, Rehab, ADL Trmt Physical Rehabilitation and Diagnostic Audiology, Rehabilitation, Activities of Daily Living Treatment"
+10,7W0,"Osteopathic, Anatomical Regions, Treatment"
+10,F06,"Phys Rehab & Diag Audiology, Rehab, Speech Trmt Physical Rehabilitation and Diagnostic Audiology, Rehabilitation, Speech Treatment"
+10,F0F,"Phys Rehab & Diag Audiology, Rehab, Caregiver Train Physical Rehabilitation and Diagnostic Audiology, Rehabilitation, Caregiver Training"
+10,09H,"Ear, Nose, Sinus, Insertion"
+10,5A0,"Extracrp/Syst Assist & Perform, Physiological Sys, Assist Extracorporeal or Systemic Assistance and Performance, Physiological Systems, Assistance"
+10,5A1,"Extracrp/Syst Assist & Perform, Physiological Sys, Perform Extracorporeal or Systemic Assistance and Performance, Physiological Systems, Performance"
+10,GZ1,"Mental Health, Psychological Tests"
+10,GZ2,"Mental Health, Crisis Intervention"
+10,GZ3,"Mental Health, Medication Management"
+10,GZ5,"Mental Health, Individual Psychotherapy"
+10,GZ6,"Mental Health, Counseling"
+10,GZ7,"Mental Health, Family Psychotherapy"
+10,GZB,"Mental Health, Electroconvulsive Therapy"
+10,GZC,"Mental Health, Biofeedback"
+10,GZF,"Mental Health, Hypnosis"
+10,GZG,"Mental Health, Narcosynthesis"
+10,GZH,"Mental Health, Group Psychotherapy"
+10,GZJ,"Mental Health, Light Therapy"
+10,HZ2,"Substance Abuse Treatment, Detoxification Services"
+10,HZ3,"Substance Abuse Treatment, Individual Counseling"
+10,HZ4,"Substance Abuse Treatment, Group Counseling"
+10,HZ5,"Substance Abuse Treatment, Individual Psychotherapy"
+10,HZ6,"Substance Abuse Treatment, Family Counseling"
+10,HZ8,"Substance Abuse Treatment, Medication Management"
+10,HZ9,"Substance Abuse Treatment, Pharmacotherapy"
+10,09Q,"Ear, Nose, Sinus, Repair"
+10,09S,"Ear, Nose, Sinus, Reposition"
+10,09U,"Ear, Nose, Sinus, Supplement"
+10,09W,"Ear, Nose, Sinus, Revision"
+10,F09,"Phys Rehab & Diag Audiology, Rehab, Hear Trmt Physical Rehabilitation and Diagnostic Audiology, Rehabilitation, Hearing Treatment"
+10,F0B,"Phys Rehab & Diag Audiology, Rehab, Cochlear Impl Trmt Physical Rehabilitation and Diagnostic Audiology, Rehabilitation, Cochlear Implant Treatment"
+10,F13,"Phys Rehab & Diag Audiology, Diag Audiol, Hear Assess Physical Rehabilitation and Diagnostic Audiology, Diagnostic Audiology, Hearing Assessment"
+10,F14,"Phys Rehab & Diag Audiology, Diag Audiol, Hear Aid Assess Physical Rehabilitation and Diagnostic Audiology, Diagnostic Audiology, Hearing Aid Assessment"
+10,F15,"Phys Rehab & Diag Audiology, Diag Audiol, Vestib Assess Physical Rehabilitation and Diagnostic Audiology, Diagnostic Audiology, Vestibular Assessment"
+10,0D9,"Gastrointestinal System, Drainage"
+10,302,"Administration, Circulatory, Transfusion"
+10,XW0,"New Technology, Anatomical Regions, Introduction"
+10,5A2,"Extracrp/Syst Assist & Perform, Physiological Sys, Restore Extracorporeal or Systemic Assistance and Performance, Physiological Systems, Restoration"
+10,B70,"Imaging, Lymphatic System, Plain Radiography"
+10,B80,"Imaging, Eye, Plain Radiography"
+10,B90,"Imaging, Ear, Nose, Mouth and Throat, Plain Radiography"
+10,B91,"Imaging, Ear, Nose, Mouth and Throat, Fluoroscopy"
+10,BB0,"Imaging, Respiratory System, Plain Radiography"
+10,BB1,"Imaging, Respiratory System, Fluoroscopy"
+10,BF1,"Imaging, Hepatobiliary System and Pancreas, Fluoroscopy"
+10,BN0,"Imaging, Skull and Facial Bones, Plain Radiography"
+10,BN1,"Imaging, Skull and Facial Bones, Fluoroscopy"
+10,BP0,"Imaging, Non-Axial Upper Bones, Plain Radiography"
+10,BP1,"Imaging, Non-Axial Upper Bones, Fluoroscopy"
+10,BQ0,"Imaging, Non-Axial Lower Bones, Plain Radiography"
+10,BQ1,"Imaging, Non-Axial Lower Bones, Fluoroscopy"
+10,BT0,"Imaging, Urinary System, Plain Radiography"
+10,BU0,"Imaging, Female Reproductive System, Plain Radiography"
+10,BU1,"Imaging, Female Reproductive System, Fluoroscopy"
+10,BV0,"Imaging, Male Reproductive System, Plain Radiography"
+10,BV1,"Imaging, Male Reproductive System, Fluoroscopy"
+10,BW1,"Imaging, Anatomical Regions, Fluoroscopy"
+10,XXE,"New Technology, Physiological Systems, Measurement"
+10,09C,"Ear, Nose, Sinus, Extirpation"
+10,0BC,"Respiratory System, Extirpation"
+10,0CC,"Mouth and Throat, Extirpation"
+10,0DC,"Gastrointestinal System, Extirpation"
+10,099,"Ear, Nose, Sinus, Drainage"
+10,00F,"Central Nervous System and Cranial Nerves, Fragmentation"
+10,02F,"Heart and Great Vessels, Fragmentation"
+10,0BF,"Respiratory System, Fragmentation"
+10,0CF,"Mouth and Throat, Fragmentation"
+10,0DF,"Gastrointestinal System, Fragmentation"
+10,0FF,"Hepatobiliary System and Pancreas, Fragmentation"
+10,3C1,"Administration, Indwelling Device, Irrigation"
+10,6A0,"Extracrp/Syst Therapies, Phys Sys, Atmospheric Control Extracorporeal or Systemic Therapies, Physiological Systems, Atmospheric Control"
+10,6A1,"Extracrp/Syst Therapies, Phys Sys, Decompression Extracorporeal or Systemic Therapies, Physiological Systems, Decompression"
+10,6A2,"Extracrp/Syst Therapies, Phys Sys, Electromagnetic Therapy Extracorporeal or Systemic Therapies, Physiological Systems, Electromagnetic Therapy"
+10,6A3,"Extracrp/Syst Therapies, Phys Sys, Hyperthermia Extracorporeal or Systemic Therapies, Physiological Systems, Hyperthermia"
+10,6A4,"Extracrp/Syst Therapies, Phys Sys, Hypotherm Extracorporeal or Systemic Therapies, Physiological Systems, Hypothermia"
+10,6A5,"Extracrp/Syst Therapies, Phys Sys, Pheresis Extracorporeal or Systemic Therapies, Physiological Systems, Pheresis"
+10,6A6,"Extracrp/Syst Therapies, Phys Sys, Phototherapy Extracorporeal or Systemic Therapies, Physiological Systems, Phototherapy"
+10,6A7,"Extracrp/Syst Therapies, Phys Sys, Ultrasound Therapy Extracorporeal or Systemic Therapies, Physiological Systems, Ultrasound Therapy"
+10,6A8,"Extracrp/Syst Therapies, Phys Sys, UV Light Therapy Extracorporeal or Systemic Therapies, Physiological Systems, Ultraviolet Light Therapy"
+10,6A9,"Extracrp/Syst Therapies, Phys Sys, Shock Wave Therapy Extracorporeal or Systemic Therapies, Physiological Systems, Shock Wave Therapy"
+10,6AB,"Extracrp/Syst Therapies, Phys Sys, Perfusion Extracorporeal or Systemic Therapies, Physiological Systems, Perfusion"
+10,8C0,"Other Procedures, Indwelling Device, Other Procedures"
+10,X2A,"New Technology, Cardiovascular System, Assistance"
+10,XK0,ICD-10 Root Operation XK0
+10,XY0,"New Technology, Extracorporeal, Introduction"
+10,095,"Ear, Nose, Sinus, Destruction"
+10,09B,"Ear, Nose, Sinus, Excision"
+10,09D,"Ear, Nose, Sinus, Extraction"
+10,09T,"Ear, Nose, Sinus, Resection"
+10,09J,"Ear, Nose, Sinus, Inspection"
+10,090,"Ear, Nose, Sinus, Alteration"
+10,091,"Ear, Nose, Sinus, Bypass"
+10,092,"Ear, Nose, Sinus, Change"
+10,093,"Ear, Nose, Sinus, Control"
+10,097,"Ear, Nose, Sinus, Dilation"
+10,098,"Ear, Nose, Sinus, Division"
+10,09M,"Ear, Nose, Sinus, Reattachment"
+10,09N,"Ear, Nose, Sinus, Release"
+10,09P,"Ear, Nose, Sinus, Removal"
+10,09R,"Ear, Nose, Sinus, Replacement"
+10,0C5,"Mouth and Throat, Destruction"
+10,0C9,"Mouth and Throat, Drainage"
+10,0CB,"Mouth and Throat, Excision"
+10,0CD,"Mouth and Throat, Extraction"
+10,0CM,"Mouth and Throat, Reattachment"
+10,0CN,"Mouth and Throat, Release"
+10,0CQ,"Mouth and Throat, Repair"
+10,0CR,"Mouth and Throat, Replacement"
+10,0CS,"Mouth and Throat, Reposition"
+10,0CT,"Mouth and Throat, Resection"
+10,0CX,"Mouth and Throat, Transfer"
+10,0CJ,"Mouth and Throat, Inspection"
+10,0C2,"Mouth and Throat, Change"
+10,0C7,"Mouth and Throat, Dilation"
+10,0CP,"Mouth and Throat, Removal"
+10,0CU,"Mouth and Throat, Supplement"
+10,0CW,"Mouth and Throat, Revision"
+10,0C0,"Mouth and Throat, Alteration"
+10,0CL,"Mouth and Throat, Occlusion"
+10,0CV,"Mouth and Throat, Restriction"
+10,0B1,"Respiratory System, Bypass"
+10,0B9,"Respiratory System, Drainage"
+10,0BB,"Respiratory System, Excision"
+10,0BD,"Respiratory System, Extraction"
+10,0BJ,"Respiratory System, Inspection"
+10,0BT,"Respiratory System, Resection"
+10,0BP,"Respiratory System, Removal"
+10,0BW,"Respiratory System, Revision"
+10,0B2,"Respiratory System, Change"
+10,0B5,"Respiratory System, Destruction"
+10,0B7,"Respiratory System, Dilation"
+10,0BL,"Respiratory System, Occlusion"
+10,0BM,"Respiratory System, Reattachment"
+10,0BN,"Respiratory System, Release"
+10,0BQ,"Respiratory System, Repair"
+10,0BR,"Respiratory System, Replacement"
+10,0BS,"Respiratory System, Reposition"
+10,0BU,"Respiratory System, Supplement"
+10,0BV,"Respiratory System, Restriction"
+10,024,"Heart and Great Vessels, Creation"
+10,027,"Heart and Great Vessels, Dilation"
+10,02C,"Heart and Great Vessels, Extirpation"
+10,02L,"Heart and Great Vessels, Occlusion"
+10,02N,"Heart and Great Vessels, Release"
+10,02Q,"Heart and Great Vessels, Repair"
+10,02R,"Heart and Great Vessels, Replacement"
+10,02T,"Heart and Great Vessels, Resection"
+10,02U,"Heart and Great Vessels, Supplement"
+10,02V,"Heart and Great Vessels, Restriction"
+10,02W,"Heart and Great Vessels, Revision"
+10,X2R,"New Technology, Cardiovascular System, Replacement"
+10,021,"Heart and Great Vessels, Bypass"
+10,B20,"Imaging, Heart, Plain Radiography"
+10,B21,"Imaging, Heart, Fluoroscopy"
+10,02P,"Heart and Great Vessels, Removal"
+10,025,"Heart and Great Vessels, Destruction"
+10,028,"Heart and Great Vessels, Division"
+10,02B,"Heart and Great Vessels, Excision"
+10,X2C,"New Technology, Cardiovascular System, Extirpation"
+10,03C,"Upper Arteries, Extirpation"
+10,04B,"Lower Arteries, Excision"
+10,04R,"Lower Arteries, Replacement"
+10,06D,"Lower Veins, Extraction"
+10,03H,"Upper Arteries, Insertion"
+10,04H,"Lower Arteries, Insertion"
+10,05H,"Upper Veins, Insertion"
+10,06H,"Lower Veins, Insertion"
+10,031,"Upper Arteries, Bypass"
+10,041,"Lower Arteries, Bypass"
+10,051,"Upper Veins, Bypass"
+10,061,"Lower Veins, Bypass"
+10,035,"Upper Arteries, Destruction"
+10,037,"Upper Arteries, Dilation"
+10,03B,"Upper Arteries, Excision"
+10,03L,"Upper Arteries, Occlusion"
+10,03N,"Upper Arteries, Release"
+10,03Q,"Upper Arteries, Repair"
+10,03R,"Upper Arteries, Replacement"
+10,03S,"Upper Arteries, Reposition"
+10,03U,"Upper Arteries, Supplement"
+10,03V,"Upper Arteries, Restriction"
+10,055,"Upper Veins, Destruction"
+10,057,"Upper Veins, Dilation"
+10,05B,"Upper Veins, Excision"
+10,05C,"Upper Veins, Extirpation"
+10,05L,"Upper Veins, Occlusion"
+10,05N,"Upper Veins, Release"
+10,05Q,"Upper Veins, Repair"
+10,05R,"Upper Veins, Replacement"
+10,05S,"Upper Veins, Reposition"
+10,05U,"Upper Veins, Supplement"
+10,05V,"Upper Veins, Restriction"
+10,01N,"Peripheral Nervous System, Release"
+10,04C,"Lower Arteries, Extirpation"
+10,06C,"Lower Veins, Extirpation"
+10,02S,"Heart and Great Vessels, Reposition"
+10,03P,"Upper Arteries, Removal"
+10,03W,"Upper Arteries, Revision"
+10,045,"Lower Arteries, Destruction"
+10,047,"Lower Arteries, Dilation"
+10,04L,"Lower Arteries, Occlusion"
+10,04N,"Lower Arteries, Release"
+10,04P,"Lower Arteries, Removal"
+10,04Q,"Lower Arteries, Repair"
+10,04S,"Lower Arteries, Reposition"
+10,04U,"Lower Arteries, Supplement"
+10,04V,"Lower Arteries, Restriction"
+10,04W,"Lower Arteries, Revision"
+10,05D,"Upper Veins, Extraction"
+10,05P,"Upper Veins, Removal"
+10,05W,"Upper Veins, Revision"
+10,065,"Lower Veins, Destruction"
+10,067,"Lower Veins, Dilation"
+10,069,"Lower Veins, Drainage"
+10,06B,"Lower Veins, Excision"
+10,06L,"Lower Veins, Occlusion"
+10,06N,"Lower Veins, Release"
+10,06P,"Lower Veins, Removal"
+10,06Q,"Lower Veins, Repair"
+10,06R,"Lower Veins, Replacement"
+10,06S,"Lower Veins, Reposition"
+10,06U,"Lower Veins, Supplement"
+10,06V,"Lower Veins, Restriction"
+10,06W,"Lower Veins, Revision"
+10,0X3,"Anatomical Regions, Upper Extremities, Control"
+10,0Y3,"Anatomical Regions, Lower Extremities, Control"
+10,X27,"New Technology, Cardiovascular System, Dilation"
+10,02J,"Heart and Great Vessels, Inspection"
+10,02K,"Heart and Great Vessels, Map"
+10,039,"Upper Arteries, Drainage"
+10,03J,"Upper Arteries, Inspection"
+10,049,"Lower Arteries, Drainage"
+10,04J,"Lower Arteries, Inspection"
+10,059,"Upper Veins, Drainage"
+10,05J,"Upper Veins, Inspection"
+10,06J,"Lower Veins, Inspection"
+10,079,"Lymphatic and Hemic Systems, Drainage"
+10,07D,"Lymphatic and Hemic Systems, Extraction"
+10,072,"Lymphatic and Hemic Systems, Change"
+10,075,"Lymphatic and Hemic Systems, Destruction"
+10,07B,"Lymphatic and Hemic Systems, Excision"
+10,07C,"Lymphatic and Hemic Systems, Extirpation"
+10,07H,"Lymphatic and Hemic Systems, Insertion"
+10,07P,"Lymphatic and Hemic Systems, Removal"
+10,07Q,"Lymphatic and Hemic Systems, Repair"
+10,07S,"Lymphatic and Hemic Systems, Reposition"
+10,07T,"Lymphatic and Hemic Systems, Resection"
+10,07W,"Lymphatic and Hemic Systems, Revision"
+10,07J,"Lymphatic and Hemic Systems, Inspection"
+10,07L,"Lymphatic and Hemic Systems, Occlusion"
+10,07N,"Lymphatic and Hemic Systems, Release"
+10,07U,"Lymphatic and Hemic Systems, Supplement"
+10,07V,"Lymphatic and Hemic Systems, Restriction"
+10,0D7,"Gastrointestinal System, Dilation"
+10,00J,"Central Nervous System and Cranial Nerves, Inspection"
+10,00K,"Central Nervous System and Cranial Nerves, Map"
+10,019,"Peripheral Nervous System, Drainage"
+10,01B,"Peripheral Nervous System, Excision"
+10,01H,"Peripheral Nervous System, Insertion"
+10,01J,"Peripheral Nervous System, Inspection"
+10,0DB,"Gastrointestinal System, Excision"
+10,0DD,"Gastrointestinal System, Extraction"
+10,0DJ,"Gastrointestinal System, Inspection"
+10,0D1,"Gastrointestinal System, Bypass"
+10,0DT,"Gastrointestinal System, Resection"
+10,002,"Central Nervous System and Cranial Nerves, Change"
+10,005,"Central Nervous System and Cranial Nerves, Destruction"
+10,012,"Peripheral Nervous System, Change"
+10,015,"Peripheral Nervous System, Destruction"
+10,01P,"Peripheral Nervous System, Removal"
+10,01W,"Peripheral Nervous System, Revision"
+10,0FB,"Hepatobiliary System and Pancreas, Excision"
+10,0FT,"Hepatobiliary System and Pancreas, Resection"
+10,007,"Central Nervous System and Cranial Nerves, Dilation"
+10,00C,"Central Nervous System and Cranial Nerves, Extirpation"
+10,00N,"Central Nervous System and Cranial Nerves, Release"
+10,00Q,"Central Nervous System and Cranial Nerves, Repair"
+10,00R,"Central Nervous System and Cranial Nerves, Replacement"
+10,00S,"Central Nervous System and Cranial Nerves, Reposition"
+10,00U,"Central Nervous System and Cranial Nerves, Supplement"
+10,00X,"Central Nervous System and Cranial Nerves, Transfer"
+10,018,"Peripheral Nervous System, Division"
+10,01C,"Peripheral Nervous System, Extirpation"
+10,01D,"Peripheral Nervous System, Extraction"
+10,01Q,"Peripheral Nervous System, Repair"
+10,01R,"Peripheral Nervous System, Replacement"
+10,01S,"Peripheral Nervous System, Reposition"
+10,01U,"Peripheral Nervous System, Supplement"
+10,01X,"Peripheral Nervous System, Transfer"
+10,0DN,"Gastrointestinal System, Release"
+10,0FN,"Hepatobiliary System and Pancreas, Release"
+10,0D2,"Gastrointestinal System, Change"
+10,0D5,"Gastrointestinal System, Destruction"
+10,0DL,"Gastrointestinal System, Occlusion"
+10,0DP,"Gastrointestinal System, Removal"
+10,0DS,"Gastrointestinal System, Reposition"
+10,0DV,"Gastrointestinal System, Restriction"
+10,0DW,"Gastrointestinal System, Revision"
+10,0D8,"Gastrointestinal System, Division"
+10,0DM,"Gastrointestinal System, Reattachment"
+10,0DQ,"Gastrointestinal System, Repair"
+10,0DR,"Gastrointestinal System, Replacement"
+10,0DU,"Gastrointestinal System, Supplement"
+10,0F9,"Hepatobiliary System and Pancreas, Drainage"
+10,0FD,"Hepatobiliary System and Pancreas, Extraction"
+10,0FJ,"Hepatobiliary System and Pancreas, Inspection"
+10,0F2,"Hepatobiliary System and Pancreas, Change"
+10,0F5,"Hepatobiliary System and Pancreas, Destruction"
+10,0F7,"Hepatobiliary System and Pancreas, Dilation"
+10,0FC,"Hepatobiliary System and Pancreas, Extirpation"
+10,0FL,"Hepatobiliary System and Pancreas, Occlusion"
+10,0FM,"Hepatobiliary System and Pancreas, Reattachment"
+10,0FP,"Hepatobiliary System and Pancreas, Removal"
+10,0FV,"Hepatobiliary System and Pancreas, Restriction"
+10,0FW,"Hepatobiliary System and Pancreas, Revision"
+10,0DX,"Gastrointestinal System, Transfer"
+10,0F1,"Hepatobiliary System and Pancreas, Bypass"
+10,0F8,"Hepatobiliary System and Pancreas, Division"
+10,0FQ,"Hepatobiliary System and Pancreas, Repair"
+10,0FR,"Hepatobiliary System and Pancreas, Replacement"
+10,0FS,"Hepatobiliary System and Pancreas, Reposition"
+10,0FU,"Hepatobiliary System and Pancreas, Supplement"
